@@ -18,6 +18,9 @@ NuGet (pronounced "New Get") is a free and open-source package manager designed 
 Official Microsoft website : https://www.microsoft.com <br />
 Official NuGet website : https://www.nuget.org <br />
 
+**_NuGet documentation by Microsoft_** <br />
+Package references (PackageReference) in project files : https://docs.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files <br />
+
 **_NuGet related projects_** <br />
 Serialize an Object by newtonsoft.com : https://www.newtonsoft.com/json/help/html/SerializeObject.htm <br />
 

@@ -21,6 +21,9 @@ Official NuGet website : https://www.nuget.org <br />
 **_NuGet documentation by Microsoft_** <br />
 Package references (PackageReference) in project files : https://docs.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files <br />
 
+**_NuGet packages_** <br />
+Microsoft.VisualStudio.Web.CodeGeneration.Design : https://www.nuget.org/packages/Microsoft.VisualStudio.Web.CodeGeneration.Design/ <br />
+
 **_NuGet related projects_** <br />
 Serialize an Object by newtonsoft.com : https://www.newtonsoft.com/json/help/html/SerializeObject.htm <br />
 
